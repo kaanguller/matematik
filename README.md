@@ -1,4 +1,5 @@
 # Sezgisel Matematik
+https://app.patika.dev/kaanguller
 Matematik ile ilgili istediğiniz bir konuda, ezber bir bilgi içermeyecek, sezgisel anlamaya dayalı bir blog gönderisi yazmanızı istiyoruz.
 
 Benim düşündüğüm sezgisel matematik konusu sayılar işlemlerdir
